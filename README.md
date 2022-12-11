@@ -44,4 +44,4 @@ The **terraform apply** command executes the actions proposed in a Terraform pla
 # to execute .tf files
 terraform apply
 ```
-Finally, we can log in to Azure Portal and see our resource group and resources in it. Here is an [example]().
+Finally, we can log in to Azure Portal and see our resource group and resources in it. Here is an [example](https://github.com/havvanuryy/TerraformProject1/blob/main/AzurePortal_Images.pdf).
