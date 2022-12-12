@@ -20,7 +20,7 @@ The **terraform init** command initializes a working directory containing Terraf
 
 This is the first command that should be run after writing a new Terraform configuration or cloning an existing one from version control.
 
-It is safe to run this command multiple times. For further information and usage [see](https://developer.hashicorp.com/terraform/cli/commands/init)
+It is safe to run this command multiple times. For further information and usage [see](https://developer.hashicorp.com/terraform/cli/commands/init).
 
 ```
 # to initialize a working directory
@@ -39,7 +39,7 @@ For further information and usage [see](https://developer.hashicorp.com/terrafor
 terraform plan
 ```
 
-The **terraform apply** command executes the actions proposed in a Terraform plan. For further information and usage [see](https://developer.hashicorp.com/terraform/cli/commands/apply)
+The **terraform apply** command executes the actions proposed in a Terraform plan. For further information and usage [see](https://developer.hashicorp.com/terraform/cli/commands/apply).
 ```
 # to execute .tf files
 terraform apply
