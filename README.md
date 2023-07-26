@@ -27,15 +27,15 @@ It is safe to run this command multiple times. For further information and usage
 terraform init
 ```
 
-The **terraform plan** command creates an execution plan, which lets you preview the changes that Terraform plans to make to your infrastructure. 
+The **terraform plan** command creates an execution plan, letting you preview the changes Terraform plans to make to your infrastructure. 
 By default, when Terraform creates a plan it:
- - Reads the current state of any already-existing remote objects to make sure that the Terraform state is up-to-date.
- - Compares the current configuration to the prior state and noting any differences.
+ - Reads the current state of any already-existing remote objects to ensure the Terraform state is up-to-date.
+ - Compares the current configuration to the prior state and notes any differences.
  - Proposes a set of change actions that should, if applied, make the remote objects match the configuration. 
 For further information and usage [see](https://developer.hashicorp.com/terraform/cli/commands/plan).
 
 ```
-# to create execution plan
+# to create an execution plan
 terraform plan
 ```
 
