@@ -1,5 +1,5 @@
-# TerraformProject1 
-## Creating  Resource group, Storage account, Virtual machine and Virtual network
+# Project1-Terraform 
+## Creating  Resource group, Storage account, Virtual machine, and Virtual network
 
 To create a resource group, **rg.tf** file is created. For further details [see](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs).
 
